@@ -11,8 +11,6 @@
 </div>
 <!--slider end--> 
 
-
-
 <!--Browse Job Start-->
 <div class="browse-wrap">
   <div class="container">
@@ -21,25 +19,25 @@
       <li class="col-md-3 col-sm-6 col-xs-6">
         <div class="jobsWrp">
           <div class="job-icon"><i class="fa fa-laptop" aria-hidden="true"></i></div>
-          <div class="jobTitle"><a href="#">IT Engineer</a></div>
+          <div class="jobTitle"><a href="IT">IT Engineer</a></div>
         </div>
       </li>
       <li class="col-md-3 col-sm-6 col-xs-6">
         <div class="jobsWrp">
           <div class="job-icon"><i class="fa fa-suitcase" aria-hidden="true"></i></div>
-          <div class="jobTitle"><a href="#">Management</a></div>
+          <div class="jobTitle"><a href="Management">Management</a></div>
         </div>
       </li>
       <li class="col-md-3 col-sm-6 col-xs-6">
         <div class="jobsWrp">
           <div class="job-icon"><i class="fa fa-money" aria-hidden="true"></i></div>
-          <div class="jobTitle"><a href="#">Accounting</a></div>
+          <div class="jobTitle"><a href="Accounting">Accounting</a></div>
         </div>
       </li>         
       <li class="col-md-3 col-sm-6 col-xs-6">
         <div class="jobsWrp">
           <div class="job-icon"><i class="fa fa-paint-brush" aria-hidden="true"></i></div>
-          <div class="jobTitle"><a href="#">Design & Art</a></div>
+          <div class="jobTitle"><a href="Design">Design & Art</a></div>
         </div>
       </li>
     </ul>
