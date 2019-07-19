@@ -2670,8 +2670,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
-//
 /* harmony default export */ __webpack_exports__["default"] = ({
   mounted: function mounted() {
     console.log('Component mounted.');
@@ -61642,7 +61640,7 @@ var staticRenderFns = [
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "jobTitle" }, [
-                  _c("a", { attrs: { href: "#" } }, [_vm._v("IT Engineer")])
+                  _c("a", { attrs: { href: "IT" } }, [_vm._v("IT Engineer")])
                 ])
               ])
             ]),
@@ -61657,7 +61655,9 @@ var staticRenderFns = [
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "jobTitle" }, [
-                  _c("a", { attrs: { href: "#" } }, [_vm._v("Management")])
+                  _c("a", { attrs: { href: "Management" } }, [
+                    _vm._v("Management")
+                  ])
                 ])
               ])
             ]),
@@ -61672,7 +61672,9 @@ var staticRenderFns = [
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "jobTitle" }, [
-                  _c("a", { attrs: { href: "#" } }, [_vm._v("Accounting")])
+                  _c("a", { attrs: { href: "Accounting" } }, [
+                    _vm._v("Accounting")
+                  ])
                 ])
               ])
             ]),
@@ -61687,7 +61689,9 @@ var staticRenderFns = [
                 ]),
                 _vm._v(" "),
                 _c("div", { staticClass: "jobTitle" }, [
-                  _c("a", { attrs: { href: "#" } }, [_vm._v("Design & Art")])
+                  _c("a", { attrs: { href: "Design" } }, [
+                    _vm._v("Design & Art")
+                  ])
                 ])
               ])
             ])
